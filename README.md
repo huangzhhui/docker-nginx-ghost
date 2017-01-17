@@ -1,6 +1,5 @@
 # docker-nginx-ghost
-Docker composition of Ghost blog with Node, NGINX proxy
-Base on official docker image
+Docker composition of Ghost blog with Node, NGINX proxy, base on official docker image
 
 # Quickstart
 
