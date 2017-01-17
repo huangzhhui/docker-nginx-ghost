@@ -11,6 +11,7 @@ Base on official docker image
 git clone https://github.com/huangzhhui/docker-nginx-ghost.git
 ```
 2.Edit nginx config in `docker-nginx-ghost/nginx/conf.d/default.conf`, change `example.com` to your domain name
+
 3.Start Nginx and Ghost
 ```Shell
 cd docker-nginx-ghost && docker-compose up -d
